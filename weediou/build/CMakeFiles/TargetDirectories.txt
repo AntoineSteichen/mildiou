@@ -1,0 +1,3 @@
+/root/Documents/projet/weediou/build/CMakeFiles/rebuild_cache.dir
+/root/Documents/projet/weediou/build/CMakeFiles/weediou.dir
+/root/Documents/projet/weediou/build/CMakeFiles/edit_cache.dir

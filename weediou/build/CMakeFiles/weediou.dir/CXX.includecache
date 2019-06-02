@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Documents/projet/weediou/src/cohorte.h
+
+/root/Documents/projet/weediou/src/default_values.h
+map
+-
+string
+-
+
+/root/Documents/projet/weediou/src/main.cpp
+model.h
+/root/Documents/projet/weediou/src/model.h
+fstream
+-
+iostream
+-
+limits
+-
+random
+-
+
+/root/Documents/projet/weediou/src/model.h
+string
+-
+vector
+-
+cohorte.h
+/root/Documents/projet/weediou/src/cohorte.h
+default_values.h
+/root/Documents/projet/weediou/src/default_values.h
+
